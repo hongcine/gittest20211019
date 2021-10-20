@@ -1,1 +1,7 @@
-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
+https://github.com/hongcine/gittest20211019.git
+
+아이디
+비밀번호  
+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
+
+choose_remote_name/master[new branch]
